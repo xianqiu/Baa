@@ -10,8 +10,8 @@ Use one of the following method:
 
 * pip install
 ```bash
-pip --install transportmodels
-pip --install transportmodels --upgrade
+pip --install baa
+pip --install baa --upgrade
 ```
 * clone repository and install with:
 ```bash
