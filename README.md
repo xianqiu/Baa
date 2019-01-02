@@ -39,7 +39,7 @@ import baa
 
 
 if __name__ == '__main__':
-    b = baa.Bar()
+    b = baa.Baa()
     b.add_receiver('zhangsan@163.com')
     b.send("Hello, world!")
 ```
